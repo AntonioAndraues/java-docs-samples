@@ -18,7 +18,7 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <groupId>com.example.cloudtasks</groupId>
-  <artifactId>cloudtasks</artifactId>
+  <artifactId>flexible-cloudtasks</artifactId>
 
   <!--
     The parent pom defines common style checks and testing strategies for our samples.
